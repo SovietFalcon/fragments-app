@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_1">Inicio, ole los caracoles</string>
+    <string name="fragment_2">Aplicación de prueba</string>
+    <string name="fragment_3">Home de la aplicación</string>
+</resources>
